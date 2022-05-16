@@ -1,0 +1,18 @@
+Hello; 
+Welcome to the progress of my tkinter GUI application: Basic Minecraft Crafting Guide.
+ In this application, you will come upon a sign up/sign in sheet.
+
+For now, all you have to do is enter your information > click "Create an Account" > re-enter
+your information > Login
+
+After "Login"
+You will come upon a search site. 
+
+((NOTE: for now I have seperated them to make it easier to identify errors))
+
+This site is still in the works, you can search but nothing will come up yet. 
+I have all the image variables created in a different file on my github, but I have yet to impliment them correctly.
+
+To View all the files I've worked on/experimented with, you may find me at:
+
+https://github.com/BRlANLlON

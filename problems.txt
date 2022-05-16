@@ -1,0 +1,18 @@
+Currently I am having problems with the forum in "CraftingGuide_v3";
+	for some reason it allows you to login without creating an account nor the right
+	cresidentials, and it also displays that you inputed the wrong information when 
+	logging in with the incorrect information too.
+
+I am also currently having problems with my imageviewers. 
+	Imageviewer displays the image outside of the correct frame.
+	(I am trying to get it displayed into frame3_image) 
+
+	Imageviwer2 just doesn't display an image at all. 
+
+	Note: Imageviewer and Imageviewer2 are basically the same code except the imaging 
+	is a  little different.
+
+	Also! Because of the imaging problems, I only have one image file inside both codes 
+	so that it would be easier to figure out the problem. 
+	
+	
